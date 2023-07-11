@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//metpesz.github.io/reactShop/static/css/main.0cab64d3.css",
+    "main.js": "//metpesz.github.io/reactShop/static/js/main.46362121.js",
+    "static/media/product1.jpg": "//metpesz.github.io/reactShop/static/media/product1.02a1c60380ab42c20bbe.jpg",
+    "index.html": "//metpesz.github.io/reactShop/index.html",
+    "main.0cab64d3.css.map": "//metpesz.github.io/reactShop/static/css/main.0cab64d3.css.map",
+    "main.46362121.js.map": "//metpesz.github.io/reactShop/static/js/main.46362121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cab64d3.css",
+    "static/js/main.46362121.js"
+  ]
+}
